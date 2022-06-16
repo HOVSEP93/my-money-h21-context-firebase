@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-LIVE: https://h21-money-app.netlify.app/
+LIVE: https://h21-money.netlify.app/login
+
+yarn add firebase@8.5
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
