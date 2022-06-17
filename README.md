@@ -2,6 +2,8 @@
 
 LIVE: https://h21-money.netlify.app/login
 
+Buy me a burger: https://www.buymeacoffee.com/Hovsep93
+
 yarn add firebase@8.5
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
